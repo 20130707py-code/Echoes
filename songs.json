@@ -1,0 +1,14 @@
+﻿[
+  {
+    "id": "level1",
+    "title": "測試曲 - 第一關 (帝王引擎)",
+    "artist": "Echoes Dev",
+    "audio": "/custom_levels/level1/audio.mp3",
+    "cover": "/custom_levels/level1/cover.png",
+    "background": "/custom_levels/level1/background.png",
+    "chart": "/custom_levels/level1/chart.json",
+    "difficulty": "EXPERT",
+    "level": 12,
+    "duration": 220
+  }
+]
